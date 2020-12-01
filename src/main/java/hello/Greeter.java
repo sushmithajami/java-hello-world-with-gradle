@@ -6,7 +6,7 @@ public class Greeter {
 
 
 
-  private String name = "";
+  private String name = "World";
 
 
 
@@ -34,7 +34,7 @@ public class Greeter {
 
   {
 
-  	if (name == "") 
+  	if (name == "World") 
 
     {
 
